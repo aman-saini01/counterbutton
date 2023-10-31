@@ -1,0 +1,42 @@
+.bg{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #344151;
+    flex-direction: column;
+    gap: 80px;
+}
+.text-above{
+    font-family: "poppins",sans-serif;
+    color:#0398d4;
+    font-size: 30px;
+}
+button{
+    border-style: none;
+    background-color:white;
+    font-size:25px;
+    color: rgb(77, 77, 77);
+}
+
+.counter{
+    display: flex;
+    padding: 18px 25px;
+    gap: 15px;
+    background-color: white;
+    font-size: 25px;
+    border-radius:0.2rem;
+}
+.countmid{
+    padding-left: 50px;
+    padding-right: 50px;
+    border-right:  2px solid black;
+    border-left: 2px solid #000;
+    color:rgb(77, 77, 77);
+    font-weight: bold;
+    font-size: 30px;
+    font-family: "poppins", sans-serif;
+
+}
+
