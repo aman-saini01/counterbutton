@@ -1,5 +1,5 @@
 
-const countValue = document.getElementByclass('countmid');
+const countValue = document.getElementByclass("[countmidvalue]");
 
 function increment(){
     
